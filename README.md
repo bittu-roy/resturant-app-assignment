@@ -17,8 +17,6 @@ Welcome to the Restaurant App project! This React-based web application is desig
 <img width="960" alt="About" src="https://github.com/bittu-roy/resturant-app-assignment/assets/103169318/737f0692-6739-48c0-ae11-6432cb31cc38">
 
 
-**4. Responsive Design:** Enjoy a consistent and user-friendly experience across various devices.
-
 ## Technologies Used:
 **React:** Building the frontend user interface.
 **Node.js and Express:** Implementing a RESTful API to handle data from the backend.
