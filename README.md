@@ -13,20 +13,20 @@ This is our Home Page
 
 
 
-**[2]: Dynamic Menu:** 
+**[2]: Dynamic Menu:** Browse through a dynamic menu with detailed information about each dish.
 
 
 <img width="960" alt="Menu" src="https://github.com/bittu-roy/resturant-app-assignment/assets/103169318/88d2a8f3-d009-4ffb-8149-6857083b60e9">
-Browse through a dynamic menu with detailed information about each dish.
 
 
 
 
 
-**[3]: About Us Page:** 
+
+**[3]: About Us Page:** Learn more about the restaurant, including its history, ambiance, and chef.
 
 <img width="960" alt="About" src="https://github.com/bittu-roy/resturant-app-assignment/assets/103169318/737f0692-6739-48c0-ae11-6432cb31cc38">
-Learn more about the restaurant, including its history, ambiance, and chef.
+
 
 ## Technologies Used:
 **React:** Building the frontend user interface.
