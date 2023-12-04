@@ -37,6 +37,10 @@ npm install
 ```
 npm start
 ```
+4. Start the backend with npm run start-server.
+```
+npm run start-server
+```
 Optionally, set up the mock backend server to simulate API calls.
 Feel free to explore, contribute, and make the Restaurant App even better! If you have any questions or suggestions, please don't hesitate to reach out.
 
