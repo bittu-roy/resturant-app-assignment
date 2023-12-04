@@ -8,9 +8,11 @@ Welcome to the Restaurant App project! This React-based web application is desig
 <img width="960" alt="Home" src="https://github.com/bittu-roy/resturant-app-assignment/assets/103169318/02eae5d5-70e5-4ef6-a82e-06f320d55821">
 
 
-**1. Dynamic Menu:** Browse through a dynamic menu with detailed information about each dish.
+
+**2. Dynamic Menu:** Browse through a dynamic menu with detailed information about each dish.
 
 <img width="960" alt="Menu" src="https://github.com/bittu-roy/resturant-app-assignment/assets/103169318/88d2a8f3-d009-4ffb-8149-6857083b60e9">
+
 
 **3. About Us Page:** Learn more about the restaurant, including its history, ambiance, and chef.
 
