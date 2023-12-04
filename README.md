@@ -3,9 +3,13 @@ Welcome to the Restaurant App project! This React-based web application is desig
 
 ## Features:
 **Dynamic Menu:** Browse through a dynamic menu with detailed information about each dish.
+
 **Order Placement:** Easily place orders with a seamless checkout process.
+
 **About Us Page:** Learn more about the restaurant, including its history, ambiance, and chef.
+
 **Responsive Design:** Enjoy a consistent and user-friendly experience across various devices.
+
 ## Technologies Used:
 **React:** Building the frontend user interface.
 **Node.js and Express:** Implementing a RESTful API to handle data from the backend.
