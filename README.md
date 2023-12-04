@@ -29,7 +29,13 @@ npm start
 Optionally, set up the mock backend server to simulate API calls.
 Feel free to explore, contribute, and make the Restaurant App even better! If you have any questions or suggestions, please don't hesitate to reach out.
 
-Adjust the content based on your actual project details, features, and technologies used. This description provides a brief overview of the project, its features, and how to get started.
+## Technologies Used
+1. React for the frontend.
+2. Node.js and Express for the backend (mock server).
+3. REST API architecture.
+
+## Contributing
+Contributions are welcome! Feel free to open issues or pull requests to help improve the Restaurant App.
 
 
 
