@@ -12,11 +12,15 @@ Welcome to the Restaurant App project! This React-based web application is desig
 **Mock Backend Server:** Simulating a backend server to provide JSON data for testing and development.
 ## Getting Started:
 1. Clone the repository.
-```git clone https://github.com/your-username/restaurant-app.git```
-```cd restaurant-app```
-2. Install dependencies using npm install.
-3. Start the frontend with npm start.
-4. Optionally, set up the mock backend server to simulate API calls.
+```
+git clone https://github.com/your-username/restaurant-app.git
+```
+```
+cd restaurant-app
+```
+3. Install dependencies using npm install.
+4. Start the frontend with npm start.
+5. Optionally, set up the mock backend server to simulate API calls.
 Feel free to explore, contribute, and make the Restaurant App even better! If you have any questions or suggestions, please don't hesitate to reach out.
 
 Adjust the content based on your actual project details, features, and technologies used. This description provides a brief overview of the project, its features, and how to get started.
